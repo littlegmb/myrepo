@@ -1,13 +1,3 @@
----
-title: "Untitled"
-author: "Garnet Beemer"
-date: '2023-03-01'
-output: 
-  html_document:
-    keep_md: true
----
-
-
 
 ## R Markdown
 
